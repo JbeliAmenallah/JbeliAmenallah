@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Essect Absense Tracker](https://github.com/JbeliAmenallah/Essect-Absense-Tracker)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Media Addiction AI Model**
 
