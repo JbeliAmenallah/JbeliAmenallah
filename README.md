@@ -7,21 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/jbeliamenallah" target="blank"><img src="https://img.shields.io/twitter/follow/jbeliamenallah?logo=twitter&style=for-the-badge" alt="jbeliamenallah" /></a> </p>
 
-- 🔭 I’m currently working on  **Createch RhManagement MicroService**
-
-- 🌱 I’m currently learning **Spring Boot**
-
-- 👯 I’m looking to collaborate on **Media Addiction AI Model**
-
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jebali-amenallah/](https://www.linkedin.com/in/jebali-amenallah/)
 
 - 💬 Ask me about **MERN , PYTHON , JAVA**
 
 - 📫 How to reach me **jbeliamenallah@hotmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/jebali-amenallah/](https://www.linkedin.com/in/jebali-amenallah/)
+-  [https://www.linkedin.com/in/jebali-amenallah/](https://www.linkedin.com/in/jebali-amenallah/)
 
-- ⚡ Fun fact **I think im autistic**
+-  Fun fact **I think im autistic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
