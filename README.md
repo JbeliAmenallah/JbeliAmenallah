@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/jebali-amenallah/](https://www.linkedin.com/in/jebali-amenallah/)
 
-- 💬 Ask me about **MERN , PYTHON , JAVA**
+- 💬 Ask me about **MERN , PYTHON ,SPRING BOOt , ANGULAR ,JAVA**
 
 - 📫 How to reach me **jbeliamenallah@hotmail.com**
 
